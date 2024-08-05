@@ -1,7 +1,7 @@
 VC-Emotion-Detection
 ==============================
 
-A ml model tells emotion from a given text
+An ml model tells emotion from a given text
 
 Project Organization
 ------------
