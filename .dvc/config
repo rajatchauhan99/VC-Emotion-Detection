@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = C:\Users\rajat.chauhan\OneDrive - Fluence\Desktop\Data science\temp\storage
